@@ -1,6 +1,7 @@
 **Flix - Web App**
 ---
 
+
 **Requisitos**
 ---
 Certifique-se de que você tenha os seguintes requisitos instalados em seu sistema:
