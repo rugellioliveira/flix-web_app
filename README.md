@@ -1,4 +1,4 @@
-#Flix - Web App
+###Flix - Web App
 
 **Requisitos**
 ---
@@ -12,6 +12,10 @@ Outras dependências listadas no arquivo requirements.txt
 Com o ambiente virtual ativado, instale as dependências do projeto usando o comando:
 
 pip install -r requirements.txt
+
+**API**
+---
+Este projeto utiliza a [API do Projeto flix_api](https://github.com/rugellioliveira/flix_api) para fazer requisições.
 
 **Rodar o projeto**
 ---
